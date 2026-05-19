@@ -1,4 +1,4 @@
-# 🛒 Retail Analytics Dashboard: PT. Indomarci Prismatami
+# 🛒 Retail Analytics Dashboard: PT. Indomarci Prismatami (Dummy Project Matkul BI)
 
 Visualisasi: https://datastudio.google.com/reporting/ff48f23d-882a-4158-b0fc-30a07367be0f
 
